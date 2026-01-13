@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kaleidoscopic-crisp-7e6273.netlify.app/sitemap.xml
