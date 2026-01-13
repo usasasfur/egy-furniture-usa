@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "0e6385f0e01109125a079b9369583046"
+        "md5": "de6f7e91698f342606915a68a3c3eb2f"
     },
     {
         "path": "assets",
@@ -82,7 +82,7 @@
     {
         "path": "/authors/mobilia-cleopatra/index.html",
         "type": "file",
-        "md5": "e5c393eea9221af5f774f73f0c349740"
+        "md5": "49a4941ee96989af00e5863e3df26e5a"
     },
     {
         "path": "feed.json",
@@ -97,7 +97,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "03976890fe0cc14f187466b94bee8e0d"
+        "md5": "e2fd29511d42398111981786ffdfc1e0"
     },
     {
         "path": "media",
@@ -382,6 +382,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "5d6b407fb7b0ce386842cd7e5498a378"
+        "md5": "c7f8f1ec14d99807c5a878f93b7ca2a9"
     }
 ]
