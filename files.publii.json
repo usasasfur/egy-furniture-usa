@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "de6f7e91698f342606915a68a3c3eb2f"
+        "md5": "e471cdde3f77540dfe459dda561cd7f8"
     },
     {
         "path": "assets",
@@ -82,7 +82,7 @@
     {
         "path": "/authors/mobilia-cleopatra/index.html",
         "type": "file",
-        "md5": "f0ca9a4d29faf1245a3febc44a77c724"
+        "md5": "f1749e3b26c17569c6d3664e4049c0ef"
     },
     {
         "path": "blogs",
@@ -92,7 +92,7 @@
     {
         "path": "/blogs/index.html",
         "type": "file",
-        "md5": "2018c0a8137235f3a1dd34b31401ff76"
+        "md5": "7034803425f4f2386ebc46eaa8ccb44a"
     },
     {
         "path": "feed.json",
@@ -112,12 +112,12 @@
     {
         "path": "/how-to-choose-egyption-furniture-usa/index.html",
         "type": "file",
-        "md5": "7a0c2b8d8a85cf6e4837bd009a24ec54"
+        "md5": "a974289160dd05bfe9d390e1ec3c79e1"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "e2fd29511d42398111981786ffdfc1e0"
+        "md5": "b06978052064e5b142756b8e5cffefba"
     },
     {
         "path": "media",
@@ -517,6 +517,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "c7f8f1ec14d99807c5a878f93b7ca2a9"
+        "md5": "5f8610c30bb6bd3b931e5082d8d609fa"
     }
 ]
