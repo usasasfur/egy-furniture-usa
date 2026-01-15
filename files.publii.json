@@ -82,17 +82,37 @@
     {
         "path": "/authors/mobilia-cleopatra/index.html",
         "type": "file",
-        "md5": "49a4941ee96989af00e5863e3df26e5a"
+        "md5": "f0ca9a4d29faf1245a3febc44a77c724"
+    },
+    {
+        "path": "blogs",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/blogs/index.html",
+        "type": "file",
+        "md5": "2018c0a8137235f3a1dd34b31401ff76"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "54a1fc0e8573053057490e44f27966be"
+        "md5": "d8e079aae4c28f2f049c071e768d752b"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "3d5e44f6ad54d2cfad9db20e41b72327"
+        "md5": "fc77f2eb6e5c4a2aa8c3446680dad846"
+    },
+    {
+        "path": "how-to-choose-egyption-furniture-usa",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/how-to-choose-egyption-furniture-usa/index.html",
+        "type": "file",
+        "md5": "7a0c2b8d8a85cf6e4837bd009a24ec54"
     },
     {
         "path": "index.html",
@@ -280,6 +300,121 @@
         "md5": "9fa824ac6495ab39a5fa1c4dad527f37"
     },
     {
+        "path": "media/posts/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/19.jpg",
+        "type": "file",
+        "md5": "f9eafcdcbbed9fc94466e1152d403847"
+    },
+    {
+        "path": "/media/posts/3/27.jpg",
+        "type": "file",
+        "md5": "0e2093f8e9f667d9aa1af72d184be966"
+    },
+    {
+        "path": "/media/posts/3/5.jpg",
+        "type": "file",
+        "md5": "01d0e8851aa7646eefd569d17f16060a"
+    },
+    {
+        "path": "media/posts/3/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/responsive/19-2xl.jpg",
+        "type": "file",
+        "md5": "7f426f5940afd0df0f444eeac3ac7b8a"
+    },
+    {
+        "path": "/media/posts/3/responsive/19-lg.jpg",
+        "type": "file",
+        "md5": "7f426f5940afd0df0f444eeac3ac7b8a"
+    },
+    {
+        "path": "/media/posts/3/responsive/19-md.jpg",
+        "type": "file",
+        "md5": "7c8d3ea10c05d1a8378570eb227a6447"
+    },
+    {
+        "path": "/media/posts/3/responsive/19-sm.jpg",
+        "type": "file",
+        "md5": "cfc2787cf50407bde7277cd84819e242"
+    },
+    {
+        "path": "/media/posts/3/responsive/19-xl.jpg",
+        "type": "file",
+        "md5": "7f426f5940afd0df0f444eeac3ac7b8a"
+    },
+    {
+        "path": "/media/posts/3/responsive/19-xs.jpg",
+        "type": "file",
+        "md5": "72e2d6f6b65541b553fef433376b4427"
+    },
+    {
+        "path": "/media/posts/3/responsive/27-2xl.jpg",
+        "type": "file",
+        "md5": "82cdb252c3f4a49d60224dc0a83e11d1"
+    },
+    {
+        "path": "/media/posts/3/responsive/27-lg.jpg",
+        "type": "file",
+        "md5": "82cdb252c3f4a49d60224dc0a83e11d1"
+    },
+    {
+        "path": "/media/posts/3/responsive/27-md.jpg",
+        "type": "file",
+        "md5": "2181051aa5ee682a621e7190d5eb06a2"
+    },
+    {
+        "path": "/media/posts/3/responsive/27-sm.jpg",
+        "type": "file",
+        "md5": "3dcb3d929e349c65087efa3848532e07"
+    },
+    {
+        "path": "/media/posts/3/responsive/27-xl.jpg",
+        "type": "file",
+        "md5": "82cdb252c3f4a49d60224dc0a83e11d1"
+    },
+    {
+        "path": "/media/posts/3/responsive/27-xs.jpg",
+        "type": "file",
+        "md5": "bfdc49cba9117306239b778c6a31f2d8"
+    },
+    {
+        "path": "/media/posts/3/responsive/5-2xl.jpg",
+        "type": "file",
+        "md5": "47cbe6b8c6f8d2f93e6a1a32f7ddb37c"
+    },
+    {
+        "path": "/media/posts/3/responsive/5-lg.jpg",
+        "type": "file",
+        "md5": "47cbe6b8c6f8d2f93e6a1a32f7ddb37c"
+    },
+    {
+        "path": "/media/posts/3/responsive/5-md.jpg",
+        "type": "file",
+        "md5": "220997f5344a5a00e71d6a16ca863627"
+    },
+    {
+        "path": "/media/posts/3/responsive/5-sm.jpg",
+        "type": "file",
+        "md5": "daba6ea27be69ba5c607b567ec0f19cf"
+    },
+    {
+        "path": "/media/posts/3/responsive/5-xl.jpg",
+        "type": "file",
+        "md5": "47cbe6b8c6f8d2f93e6a1a32f7ddb37c"
+    },
+    {
+        "path": "/media/posts/3/responsive/5-xs.jpg",
+        "type": "file",
+        "md5": "fc47b331eb6e324bc495cdd8313f9ce2"
+    },
+    {
         "path": "media/website",
         "type": "directory",
         "md5": false
@@ -367,7 +502,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "e703084722fee69f58a464154b22f298"
+        "md5": "26f0f5be641e66572c111cf339d13b8c"
     },
     {
         "path": "sitemap.xsl",
