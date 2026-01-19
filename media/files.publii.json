@@ -97,12 +97,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "e046d7666a47c8927f8e8f742809e34b"
+        "md5": "0c6786ee976f318cb88e26ac91c70a45"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "64f296bf8d5ef15baefa372b9c71213a"
+        "md5": "39eada5ba766455a5054b2036cfe6e03"
     },
     {
         "path": "how-to-choose-egyption-furniture-usa",
@@ -112,12 +112,12 @@
     {
         "path": "/how-to-choose-egyption-furniture-usa/index.html",
         "type": "file",
-        "md5": "a0b22a31e5d9c91a5130a1fabff82555"
+        "md5": "c2ac0b4a5f5671c16035aca5205c8026"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "55a5c7105119c92028efc55dd4e57049"
+        "md5": "644289f8f02cba56498aee8e81139544"
     },
     {
         "path": "media",
@@ -617,7 +617,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "45b136f9a5d39709ab4a2b91eac22941"
+        "md5": "2aa7842ae44e7bd7c4b3829c6e147cc8"
     },
     {
         "path": "sitemap.xsl",
@@ -642,6 +642,6 @@
     {
         "path": "/why-arabs-in-usa-love-egypt-furniture/index.html",
         "type": "file",
-        "md5": "e000c5e4cc551ee2909dde6e1f53ee78"
+        "md5": "b09fe787b56626addaa0304e956bd81b"
     }
 ]
